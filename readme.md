@@ -1,4 +1,5 @@
-# psql refresher workshop
+# psql refresher workshop 
+https://app.travis-ci.com/simelane-jpd/psql-refresher-workshop.svg?branch=main
 
 Fix all the failing tests. An refresh your sql knowledge in the process.
 

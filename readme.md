@@ -1,7 +1,6 @@
 # psql refresher workshop 
 [![Build Status](https://app.travis-ci.com/simelane-jpd/psql-refresher-workshop.svg?branch=main)](https://app.travis-ci.com/simelane-jpd/psql-refresher-workshop)
 
-
 Fix all the failing tests. An refresh your sql knowledge in the process.
 
 Install all the project dependencies using this command:
